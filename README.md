@@ -1,10 +1,8 @@
 # GoBind
----
 An SSL and password protected bind shell written in Go.
 
 ### Setup
----
-By default the bind shell listens on port 45778, this can be changed by editing the corresponsing line
+By default the bind shell listens on port 45778, this can be changed by editing the corresponding line
 
 ## Change password
 ``` bash
